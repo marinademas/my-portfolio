@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Worked with ASTRO's design team to build their Annual Meeting event invitations including ASTRO's Gold Medal Dinner.",
     image: "./goldmedal.jpeg",
-    link: "https://reactbootcamp.com",
+    link: "https://marinademas.github.io/marinademas/files/goldmedal.html",
   },
   {
     title: "2022 Winter ASTROnews",
