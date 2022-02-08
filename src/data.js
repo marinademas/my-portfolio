@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Produced ASTROnews web version and collateral including eTOC.",
     image: "./astronews_winter22.jpg",
-    link: "https://reactbootcamp.com",
+    link: "https://www.astro.org/News-and-Publications/ASTROnews/2022/2022-Winter-ASTROnews",
   },
   {
     title: "2021 Thoracic Cancer Symposium",
