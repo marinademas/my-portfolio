@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Produced ASTROnews web version and collateral including eTOC.",
     image: "./astronews_winter22.jpg",
-    link: "https://marinademas.github.io/my-portfolio/public/winter-astronews.html",
+    link: "https://marinademas.github.io/marinademas/files/winter-astronews.html",
   },
   {
     title: "2021 Thoracic Cancer Symposium",
