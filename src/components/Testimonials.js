@@ -8,7 +8,7 @@ export default function Testimonials() {
             <div className="testimonials-container">
                 <UsersIcon className="testimonials-icon" />
                 <h1 className="testimonials-h1">
-                    Client Testimonials
+                    Testimonials
                 </h1>
                 <div className="testimonials-boxes">
                     {testimonials.map((testimonials) => (
